@@ -1,0 +1,3 @@
+files:
+  - source: amcat/interface-strings/web/en.json
+    translation: translations/amcat/interface-strings/web/en.json
