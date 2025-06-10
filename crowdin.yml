@@ -1,3 +1,21 @@
 files:
   - source: amcat/interface-strings/web/en.json
     translation: translations/amcat/interface-strings/web/en.json
+  - source: amcat/interface-strings/ios/en.strings
+    translation: translations/amcat/interface-strings/ios/en.strings
+  - source: amcat/interface-strings/android/en.xml
+    translation: translations/amcat/interface-strings/android/en.xml
+  - source: amcat/backend-messages/errors/en.json
+    translation: translations/amcat/backend-messages/errors/en.json
+  - source: amcat/modules/info/en.json
+    translation: translations/amcat/modules/info/en.json
+  - source: amcat/modules/questions/authoring-tool/en.json
+    translation: translations/amcat/modules/questions/authoring-tool/en.json
+  - source: amcat/modules/questions/legacy/en.json
+    translation: translations/amcat/modules/questions/legacy/en.json
+  - source: amcat/config-entities/company/en.json
+    translation: translations/amcat/config-entities/company/en.json
+  - source: amcat/config-entities/default/en.json
+    translation: translations/amcat/config-entities/default/en.json
+  - source: amcat/config-entities/tpod/en.json
+    translation: translations/amcat/config-entities/tpod/en.json
